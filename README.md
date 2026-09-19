@@ -24,8 +24,6 @@ I'm working on:
 
 > 🚧 **Currently in active development**
 
-**[View the NEURORELIC UE5 repository](https://github.com/PROXOMA/NeuroRelic-UE5)**
-
 ---
 
 ### 🕹️ [NEURORELIC: Pocket Protocol](https://github.com/PROXOMA/NR-Pocket-Protocol)
